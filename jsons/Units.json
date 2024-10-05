@@ -2,7 +2,7 @@
 	{
 		"name": "Goblin Warrior",
 		"unitType": "Sword",
-		"uniqueTo": "The Goblin Kingom",
+		"uniqueTo": "The Goblin Kingdom",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 90,
