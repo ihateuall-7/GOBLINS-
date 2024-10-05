@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Goblin Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "The Goblin Kingom",
+		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredTech": "Metal Casting",
+		"requiredResource": "Iron",
+		"promotions": ["Pictish Courage","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
