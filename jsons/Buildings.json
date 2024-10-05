@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"name": "Goblin hut",
+		"replaces": "Workshop",
+		"uniqueTo": "The Goblin Kingdom",
+		"cost": 6,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
+		"maintenance": 0,
+		"isNationalWonder": false,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Animal Husbandry"
 	},
 	{
-		"name": "Breeders",
+		"name": "Goblin Farm",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"uniqueTo": "The Goblin Kingdom",
+		"cost": 8,
+		"hurryCostModifier": 16,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Horseback Riding"
 	}
 ]
